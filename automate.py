@@ -9,7 +9,7 @@ from email.message import EmailMessage
 WATCHED_DIR = "test"
 ARCHIVE_DIR = "archive"
 LOG_FILE = "system.log"
-DAYS_OLD = 7
+DAYS_OLD = 8
 
 EMAIL_ADDRESS = "your_email@gmail.com"
 EMAIL_PASSWORD = "your_app_password"
